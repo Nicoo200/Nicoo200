@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Hi 👋, I am Nicollas! I`m 17 years, i live São Paulo, Brazil. <br>🪸Currently studying the second year of high school at the SESI institute (Social Service of Industry).<br><br>In the second semester, I am also studying Systems Development at the Senai Suíço-Brasileia Paulo Ernesto Tolle.</p>
+<p align="left">Hi 👋, I am Nicollas! I`m 17 years, i live São Paulo, Brazil. <br>
+🪸Currently studying the second year of high school at the SESI institute (Social Service of Industry).<br>
+  <br>In the second semester, I am also studying Systems Development at the Senai Suíço-Brasileia Paulo Ernesto Tolle.</p>
 
 ###
 
