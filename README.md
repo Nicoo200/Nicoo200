@@ -8,7 +8,7 @@
   <br>In the second semester, I am also studying Systems Development at the Senai Suíço-Brasileia Paulo Ernesto Tolle.</p>
 
 ###
-
+<hr>
 <h5 align="center">Tools:</h5>
 
 ###
