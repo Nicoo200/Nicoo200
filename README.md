@@ -17,6 +17,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicoo200&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<br clear="both">
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nicoo200.Nicoo200" alt="Visitor Count" />
+</div>
+
+<br clear="both">
+
 <h1 align="center"></h1>
 
 ###
@@ -45,6 +54,14 @@
 ###
 
 <h1 align="center"></h1>
+
+###
+
+###
+
+<div align="center">
+  <img height="800" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562"  />
+</div>
 
 ###
 
@@ -129,8 +146,3 @@
 </div>
 
 <br clear="both">
-<br clear="both">
-
-<div align="center">
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nicoo200.Nicoo200)
-</div>
