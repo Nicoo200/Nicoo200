@@ -100,7 +100,7 @@
 
 ###
 
-<img align="right" height="150" src="https://c.tenor.com/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif"  />
+
 
 ###
 
@@ -131,5 +131,6 @@
 <br clear="both">
 <br clear="both">
 
+<div align="center">
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nicoo200.Nicoo200)
-
+</div>
