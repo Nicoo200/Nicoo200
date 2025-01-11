@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <h1 align="center">Hello my name is Nicollas Henrique</h1>
 
 ###
@@ -20,16 +22,10 @@
 <br clear="both">
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nicoo200.Nicoo200" alt="Visitor Count" />
-</div>
-
-<br clear="both">
-
 <h1 align="center"></h1>
 
 ###
-<h1 align="center">About me</h1>
+<h1 align="left">About me: </h1>
 
 ###
 
@@ -146,3 +142,12 @@
 </div>
 
 <br clear="both">
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count: 👀 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Nicoo200}/count.svg" /></p> 
+<br></div>
+
+<br clear="both">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
