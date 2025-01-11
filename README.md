@@ -127,3 +127,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+<br clear="both">
+<br clear="both">
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nicoo200.Nicoo200)
+
