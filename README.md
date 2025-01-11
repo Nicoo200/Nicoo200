@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img height="800" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562"  />
+  <img height="700" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562"  />
 </div>
 
 ###
