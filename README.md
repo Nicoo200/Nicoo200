@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32abd8&height=120&section=header"/>
 
-<h1 align="center">Hello my name is Nicollas Henrique</h1>
-
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32abd8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nicollas+Henrique;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
   <img height="700" src="https://cdn.dribbble.com/users/521912/screenshots/13911181/media/2053a15d64873ea11f9e6cc5cb26f227.gif"  />
@@ -13,14 +11,16 @@
 <h1 align="center">Statistics</h1>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicoo200&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicoo200&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nicoo200&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=32abd8&bg_color=0d1117" alt="Nicoo200 github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoo200&layout=compact&hide_border=true&title_color=00bfbf&text_color=32abd8&bg_color=0d1117" />
 </div>
 
 <br clear="both">
-<br clear="both">
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nicoo200&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <h1 align="center"></h1>
 
@@ -150,4 +150,4 @@
 
 <br clear="both">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32abd8&height=120&section=footer"/>
