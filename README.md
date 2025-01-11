@@ -2,23 +2,25 @@
 
 ###
 
-<h5 align="center">Statistics</h5>
+<div align="center">
+  <img height="700" src="https://cdn.dribbble.com/users/521912/screenshots/13911181/media/2053a15d64873ea11f9e6cc5cb26f227.gif"  />
+</div>
 
 ###
 
-<p align="left"></p>
+<h1 align="center">Statistics</h1>
 
+###
 
-<hr style="border: none; border-top: 1px solid #ccc;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicoo200&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicoo200&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h4 align="center">Aboute me:</h4>
+<h1 align="center"></h1>
 
-<hr style="border: none; border-top: 1px solid #ccc;" />
-
-
-
-
-<p align="left"></p>
+###
+<h1 align="center">About me</h1>
 
 ###
 
@@ -42,18 +44,18 @@
 
 ###
 
-<div align="center">
-  <img height="500" src="https://i.gifer.com/J4o.gif"  />
-</div>
+<h1 align="center"></h1>
 
 ###
 
-<h5 align="center">Tools:</h5>
+<h1 align="center">Tools: </h1>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
   <img width="12" />
@@ -72,7 +74,9 @@
 
 ###
 
-<h5 align="center">languages ​​i use:</h5>
+<br clear="both">
+
+<h1 align="center">languages ​​i use: </h1>
 
 ###
 
@@ -90,7 +94,13 @@
 
 ###
 
-<h5 align="center">everything I've seen/studied</h5>
+<br clear="both">
+
+<h1 align="center">Everything I've seen/studied: </h1>
+
+###
+
+<img align="right" height="150" src="https://c.tenor.com/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif"  />
 
 ###
 
@@ -117,9 +127,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<img align="right" height="100" src="https://c.tenor.com/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif"  />
-
-###
